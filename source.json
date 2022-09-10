@@ -8,7 +8,7 @@
         "iconURL": "https://github.com/opa334/TrollStore/raw/main/Installer/TrollInstaller/TrollInstaller/Assets.xcassets/AppIcon.appiconset/1024.png",
         "localizedDescription": "TrollStore in a permasigned jailed app that can permanently install any IPA you open in it.",
         "name": "TrollStore",
-        "screenshotURLs": ["https://github.com/bigfloppa234/bigfloppa234.github.io/blob/main/screenshot.jpg"],
+        "screenshotURLs": ["https://raw.githubusercontent.com/bigfloppa234/bigfloppa234.github.io/main/screenshot.jpg"],
         "size": 925696,
         "subtitle": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
         "tintColor": "DC4ADD",
