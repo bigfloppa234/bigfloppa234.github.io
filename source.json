@@ -6,7 +6,7 @@
         "developerName": "opa334",
         "downloadURL": "https://github.com/opa334/TrollStore/releases/latest/download/TrollInstaller.ipa",
         "iconURL": "https://github.com/opa334/TrollStore/raw/main/Installer/TrollInstaller/TrollInstaller/Assets.xcassets/AppIcon.appiconset/1024.png",
-        "localizedDescription": "TrollStore in a permasigned jailed app that can permanently install any IPA you open in it.",
+        "localizedDescription": "TrollStore in a permasigned jailed app that can permanently install any IPA you open in it. NOTE: Only versions between iOS 14.0 - 15.5b4 are supported by TrollStore, TrollStore will never work on versions outside of that range.",
         "name": "TrollStore",
         "screenshotURLs": ["https://raw.githubusercontent.com/bigfloppa234/bigfloppa234.github.io/main/screenshot.jpg"],
         "size": 925696,
