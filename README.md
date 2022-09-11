@@ -16,5 +16,5 @@ This repo is meant to just provide another way of installing TrollInstaller on j
 
 Thanks to the following people:  
 opa334 - Creating TrollStore, TrollInstaller, etc  
-DetachHead - Creating a source.json file that I "borrowed"  
+DetachHead - Creating a source.json file   
 rileytestut - Creating AltStore/AltServer
