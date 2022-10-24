@@ -1,4 +1,7 @@
-# Unofficial TrollInstaller source for AltStore
+# [Archived, no longer maintained] Unofficial TrollInstaller source for AltStore
+
+I no longer want to work on this tiny project of mine because it's useless due to the new methods of installing TrollStore and it's just a waste of time to update this
+(I doubt anyone even used this repo anyway)
 
 https://bigfloppa234.github.io
 
